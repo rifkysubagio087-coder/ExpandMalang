@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍🎓 Tentang Kami
+## - Tentang Kami
 
 Kami adalah **Sisi Terang Kampus**, kelompok mahasiswa yang terdiri dari 5 orang dengan semangat belajar dan berkolaborasi. Kami percaya bahwa belajar lebih menyenangkan ketika dilakukan bersama.
 
@@ -20,9 +20,9 @@ Saat ini kami sedang mengerjakan project **Expand Malang**, sebuah aplikasi pari
 
 ---
 
-## 🚀 Project Kami
+## - Project Kami
 
-### 🗺️ Expand Malang
+### - Expand Malang
 > Aplikasi pariwisata untuk menjelajahi keindahan Kota Malang
 
 | Info | Detail |
@@ -36,7 +36,7 @@ Saat ini kami sedang mengerjakan project **Expand Malang**, sebuah aplikasi pari
 
 ---
 
-## 👥 Anggota Kelompok
+## - Anggota Kelompok
 
 | Avatar | Nama | Peran |
 |--------|------|-------|
@@ -50,6 +50,6 @@ Saat ini kami sedang mengerjakan project **Expand Malang**, sebuah aplikasi pari
 
 <div align="center">
 
-Made with ❤️ by **Sisi Terang Kampus** · Malang, 2025
+by **Sisi Terang Kampus** · Malang, 2026
 
 </div>
