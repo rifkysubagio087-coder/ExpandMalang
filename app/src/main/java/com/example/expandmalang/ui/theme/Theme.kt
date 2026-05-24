@@ -42,7 +42,7 @@ private val LightColorScheme = lightColorScheme(
 
 @Composable
 fun ExpandMalangTheme(
-    darkTheme: Boolean = isSystemInDarkTheme(),
+    darkTheme: Boolean = false,
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = false, // Set to false to maintain branding colors
     content: @Composable () -> Unit

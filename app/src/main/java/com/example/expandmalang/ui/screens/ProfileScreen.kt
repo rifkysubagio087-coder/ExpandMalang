@@ -134,7 +134,7 @@ fun ProfileScreen() {
             ProfileMenuItem(Icons.AutoMirrored.Filled.ExitToApp, "Keluar", isLogout = true)
             
             Spacer(Modifier.height(32.dp))
-            Text("Versi 2.4.1 (Dalam Pengembangan)", color = Color.Gray, fontSize = 12.sp)
+            Text("Versi 0.0.1 (Dalam Pengembangan)", color = Color.Gray, fontSize = 12.sp)
             Spacer(Modifier.height(16.dp))
         }
     }
